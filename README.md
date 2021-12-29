@@ -10,7 +10,8 @@ This is the place where I opensource stuff and break things :rofl:
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/matisseacheen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matisseacheen" height="30" width="40" /></a>
-  
+ 
+### Coding Stats
 <!--START_SECTION:waka-->
   
 <!--END_SECTION:waka-->
