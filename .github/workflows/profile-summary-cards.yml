@@ -20,4 +20,3 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_LANGUAGE: "true"
