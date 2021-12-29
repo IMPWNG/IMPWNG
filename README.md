@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-This is the place where I opensource stuff and break things :rofl:
+My name is Matisse. Former IT Project Manager and now Web3 Developper. 
 
 - 🔭 &nbsp;I’m probably currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Solidity
