@@ -7,6 +7,9 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 &nbsp;How to reach me: [@matisseacheen](https://www.linkedin.com/in/matisseacheen/) 
 - 👨‍💻 &nbsp;Read more about my projects at [impwng.com](https://www.impwng.com)
 
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/matisseacheen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matisseacheen" height="30" width="40" /></a>
 
 
 [![](https://raw.githubusercontent.com/IMPWNG/IMPWNG/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
