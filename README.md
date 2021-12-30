@@ -13,7 +13,9 @@ My name is Matisse. Former IT Project Manager and now Web3 Developper.
  
 ### Coding Stats
 <!--START_SECTION:waka-->
-  
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
