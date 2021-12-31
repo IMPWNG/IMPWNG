@@ -14,7 +14,8 @@ My name is Matisse. Former IT Project Manager and now Web3 Developper.
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-
+Solidity     27 mins         █████████████░░░░░░░░░░░░   51.57 % 
+Markdown     25 mins         ████████████░░░░░░░░░░░░░   48.43 % 
 ```
 <!--END_SECTION:waka-->
 
