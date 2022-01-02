@@ -11,7 +11,7 @@ My name is Matisse. Former IT Project Manager and now Web3 Developper. I'm curre
 <p align="left">
 <a href="https://www.linkedin.com/in/matisseacheen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matisseacheen" height="30" width="40" /></a>
  
-### Coding Stats
+### My 2022 Coding Stats
 <!--START_SECTION:waka-->
 ```text
 Solidity     2 hrs 16 mins   █████████████░░░░░░░░░░░░   52.21 % 
