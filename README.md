@@ -14,11 +14,11 @@ My name is Matisse. Former IT Project Manager and now Web3 Developper. I'm curre
 ### My 2022 Coding Stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript   6 hrs 17 mins   ██████████████████▓░░░░░░   74.20 % 
-Solidity     37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-JavaScript   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Markdown     30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+TypeScript   4 hrs 24 mins   █████████████████████▓░░░   86.68 % 
+Markdown     26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 <!--END_SECTION:waka-->
 
