@@ -4,12 +4,12 @@ My name is Matisse. Former IT Project Manager and now Web3 Developper. I'm curre
 
 - 🔭 &nbsp;I’m probably currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Solidity
-- 📫 &nbsp;How to reach me: [@matisseacheen](https://www.linkedin.com/in/matisseacheen/) 
+- 📫 &nbsp;How to reach me: [@impwng](https://google.com/) 
 - 👨‍💻 &nbsp;Read more about my projects at [impwng.com](https://www.impwng.com)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://www.linkedin.com/in/matisseacheen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matisseacheen" height="30" width="40" /></a>
+<a href="https://www.google.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="co" height="30" width="40" /></a>
  
 ### My 2022 Coding Stats
 <!--START_SECTION:waka-->
