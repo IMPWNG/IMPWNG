@@ -1,11 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-My name is Matisse. Former IT Project Manager and now Web3 Developper. I'm currently challenging myself to become a MasterDev on Solidity, NodeJS, NextJS and #web3 tools.
+Former IT Project Manager and now Web3 Developper. I'm currently challenging myself to become a MasterDev on Solidity, NodeJS, NextJS and #web3 tools.
 
 - 🔭 &nbsp;I’m probably currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Solidity
-- 📫 &nbsp;How to reach me: [@impwng](https://google.com/) 
-- 👨‍💻 &nbsp;Read more about my projects at [impwng.com](https://www.impwng.com)
+
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
