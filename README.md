@@ -13,7 +13,8 @@ Former IT Project Manager and now Web3 Developper. I'm currently challenging mys
 ### My 2022 Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Solidity     1 hr 17 mins    ███████████████████████░░   91.73 % 
+JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 ```
 <!--END_SECTION:waka-->
 
