@@ -13,6 +13,8 @@ Former IT Project Manager and now Web3 Developper. I'm currently challenging mys
 ### My 2022 Coding Stats
 <!--START_SECTION:waka-->
 ```text
+Total: 19 hrs 48 mins
+
 Solidity     11 hrs 36 mins  ██████████████▓░░░░░░░░░░   58.60 % 
 Vue.js       4 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.62 % 
 JSON         1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
