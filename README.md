@@ -12,13 +12,16 @@ Former IT Project Manager and now Web3 Developper. I'm currently challenging mys
  
 ### My 2022 Coding Stats
 <!--START_SECTION:waka-->
+
 ```text
-Vue.js       6 hrs 48 mins   █████████████████▒░░░░░░░   68.73 % 
-TypeScript   1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-JSON         42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-JavaScript   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-SCSS         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Vue.js       6 hrs 48 mins   █████████████████▒░░░░░░░   68.73 %
+TypeScript   1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+JSON         42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+JavaScript   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+SCSS         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+CSS          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
+
 <!--END_SECTION:waka-->
 
 
