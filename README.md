@@ -14,12 +14,12 @@ Former IT Project Manager and now Web3 Developper. I'm currently challenging mys
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       2 hrs 26 mins   █████████████░░░░░░░░░░░░   52.65 %
-TypeScript   36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
-JSON         31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-JavaScript   29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-Bash         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-CSS          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Vue.js       1 hr 25 mins    ████████████▓░░░░░░░░░░░░   50.02 %
+TypeScript   35 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+JSON         17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Bash         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+JavaScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+SCSS         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
