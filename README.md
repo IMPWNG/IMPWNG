@@ -10,7 +10,7 @@ Former IT Project Manager and now Web3 Developper. I'm currently challenging mys
 <p align="left">
 <a href="https://www.google.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="co" height="30" width="40" /></a>
  
-### My 2022 Coding Stats
+### My Week's Coding Stats
 <!--START_SECTION:waka-->
 
 ```text
