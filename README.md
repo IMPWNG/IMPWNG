@@ -14,11 +14,12 @@ Former IT Project Manager and now Web3 Developper. I'm currently challenging mys
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   15 hrs 14 mins  ███████████████▓░░░░░░░░░   62.34 %
-TypeScript   7 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   28.87 %
-JSON         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-CSS          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JavaScript   13 hrs          █████████████▒░░░░░░░░░░░   52.99 %
+TypeScript   7 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.85 %
+Solidity     1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+CSS          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
