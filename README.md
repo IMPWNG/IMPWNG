@@ -19,11 +19,12 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   26 hrs 2 mins   ████████████████████████▒   97.99 %
-HTML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   22 hrs 32 mins  ████████████████████████░   95.85 %
+HTML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+INI          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
