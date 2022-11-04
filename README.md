@@ -19,12 +19,12 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 6 hrs 33 mins   ███████████████░░░░░░░░░░   60.27 %
-Solidity                   2 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
-Python                     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-HTML                       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Nginx configuration file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-JavaScript                 11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+TypeScript                 9 hrs 6 mins    █████████████████░░░░░░░░   67.87 %
+Solidity                   2 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
+Python                     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+HTML                       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Nginx configuration file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+JavaScript                 11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
