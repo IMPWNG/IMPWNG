@@ -18,7 +18,7 @@ I love learning new skills and working on several projects
 ### My Week's Coding Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 YAML    8 mins          ██████████████████████░░░   87.81 %
 JSON    1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
 Dart    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
