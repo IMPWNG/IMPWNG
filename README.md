@@ -19,10 +19,7 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    8 mins          ██████████████████████░░░   87.81 %
-JSON    1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Dart    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
