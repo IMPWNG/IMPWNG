@@ -19,10 +19,8 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 19 mins    ████████████████████▒░░░░   81.39 %
-Text     12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Other    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-JSON     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Python   38 mins         ██████████████████████░░░   87.42 %
+Text     5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
 ```
 
 <!--END_SECTION:waka-->
