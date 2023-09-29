@@ -19,7 +19,7 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   21 mins         █████████████████████████   100.00 %
+JavaScript   20 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
