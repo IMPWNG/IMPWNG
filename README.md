@@ -19,9 +19,7 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    32 mins         ██████████████████████▒░░   89.82 %
-Image (svg)   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
