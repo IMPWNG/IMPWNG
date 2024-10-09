@@ -19,7 +19,8 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```txt
-CSV   0 secs          █████████████████████████   100.00 %
+Python   13 mins         █████████████████████████   99.91 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
