@@ -19,7 +19,10 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript    1 hr 39 mins    ██████████████████████░░░   87.66 %
+JSON          10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Other         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
