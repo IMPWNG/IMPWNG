@@ -20,7 +20,7 @@ I love learning new skills and working on several projects
 
 ```txt
 JavaScript   2 hrs 43 mins         ██████████████████▒░░░░░░   73.64 %
-Bash         33 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Bash         33 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
 JSON         18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
 Text         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 HTML         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
