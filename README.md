@@ -19,9 +19,11 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 59 mins         ████████████████████████▓   99.05 %
-Git Config   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   7 hrs 24 mins         ████████████████████░░░░░   80.54 %
+Python       1 hr 19 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Bash         19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Text         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Git Config   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
