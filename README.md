@@ -19,7 +19,7 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   54 mins               █████████████████████████   100.00 %
+TypeScript   40 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
