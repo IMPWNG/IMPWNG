@@ -19,11 +19,11 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     3 hrs 51 mins         ██████████▓░░░░░░░░░░░░░░   43.26 %
-Text           1 hr 28 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
-Other          1 hr 3 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-TypeScript     57 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-CSS            49 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+JavaScript     3 hrs 29 mins         ███████████▒░░░░░░░░░░░░░   45.38 %
+Text           1 hr 18 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
+TypeScript     1 hr 17 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+CSS            49 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+Markdown       14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
