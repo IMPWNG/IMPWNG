@@ -19,11 +19,11 @@ I love learning new skills and working on several projects
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 32 mins         ████████████▒░░░░░░░░░░░░   49.00 %
-Bash         1 hr 48 mins          █████░░░░░░░░░░░░░░░░░░░░   19.57 %
-Markdown     43 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-YAML         28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Text         23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+TypeScript   2 hrs 56 mins         ██████████▒░░░░░░░░░░░░░░   40.91 %
+Bash         1 hr 47 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
+Markdown     43 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+YAML         28 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+SQL          21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:waka-->
